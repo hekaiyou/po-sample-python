@@ -1,8 +1,8 @@
 # Byte-compiled / optimized / DLL files
-driver/
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so
@@ -66,8 +66,8 @@ instance/
 docs/_build/
 
 # PyBuilder
-target/report/image/
-target/report/ .html
+#target/report/image/
+#target/report/ .html
 
 # Jupyter Notebook
 .ipynb_checkpoints
