@@ -2,7 +2,7 @@
 
 
 # 项目绝对路径
-global_path = '/Users/hekaiyou/PycharmProjects/page-object/'
+global_path = '/Users/hekaiyou/PycharmProjects/po-sample-python/'
 
 # 服务器URL
 server_url = 'http://localhost:3456/wd/hub'
