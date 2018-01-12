@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+driver/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -63,9 +64,11 @@ instance/
 
 # Sphinx documentation
 docs/_build/
+mail/
 
 # PyBuilder
-target/
+target/report/image/
+target/report/ .html
 
 # Jupyter Notebook
 .ipynb_checkpoints
